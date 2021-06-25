@@ -1,1 +1,1 @@
-# Reinforcement-Learning-Agent-Hunt-the-Wumpus-
+# Reinforcement-Learning-Agent-in Wumpus World
